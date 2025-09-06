@@ -1,1 +1,1 @@
-# homework-44
+# Homework 44 | Інтеграція Redux у існуючий React проект
